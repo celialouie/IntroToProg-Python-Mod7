@@ -1,5 +1,5 @@
 # ------------------------------------------------------------------------------------------ #
-# Title: Assignment07
+# Title: Assignment 07
 # Desc: This assignment demonstrates using classes and objects
 # Change Log: (Who, When, What)
 #   Celia Louie,11/26/2023,Created Script
